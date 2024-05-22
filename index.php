@@ -9,6 +9,7 @@ else
 $get_image = $stacks->get_stack('curated', ['per_page' => 40, "page" => $page]);
 $pages = ceil(( $get_image['result']['total_results'] ?? 1 ) / 40);
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
