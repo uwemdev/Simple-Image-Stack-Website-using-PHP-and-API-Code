@@ -50,3 +50,4 @@ System Installation/Setup
     Browse the Simple Image Stack Website in a browser. i.e. http://localhost/php-image-stack/.
 
 And there you have it! 
+
